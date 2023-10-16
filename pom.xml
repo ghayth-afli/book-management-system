@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mzo</groupId>
-	<artifactId>wasl</artifactId>
+	<artifactId>Soa</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>wasl</name>
+	<name>Soa</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>21</java.version>
